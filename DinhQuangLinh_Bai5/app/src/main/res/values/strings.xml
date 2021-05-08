@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dinhquanglinh</string>
+    <string name="err_name">Please enter valid name</string>
+    <string name="err_email">Please enter valid email</string>
+    <string name="err_tel">Please enter valid phone number</string>
+    <string name="err_password">Your password don\'t enough</string>
+</resources>
